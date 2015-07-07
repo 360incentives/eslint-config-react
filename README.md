@@ -24,5 +24,8 @@ json style:
 
 yaml style:
 ```yaml
-???? who uses yaml anyways..
+---
+extends:
+- base
+- react
 ```
