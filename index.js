@@ -6,8 +6,7 @@ module.exports = {
     "jsx": true
   },
   "env": {
-    "node": true,
-    "browser": true
+    "node": true
   },
   "rules": {
     "react/display-name": 2,
