@@ -5,12 +5,8 @@ This is a baseline configuration for linting React/JSX files using [eslint-plugi
 #### Usage
 
 ```sh
-npm install --save-dev eslint-plugin-react
-
-npm install --save-dev https://github.com/360incentives/eslint-config-react.git
-#or
-npm install --save-dev git+ssh://git@github.com/360incentives/eslint-config-react.git
-
+npm i eslint-plugin-react -D
+npm i 360incentives/eslint-config-react -D
 ```
 
 and in your root `.eslintrc` file add `react` to your list of extends (recommended that this is used in conjunction with the [baseline](https://github.com/360incentives/eslint-config-base) config file
