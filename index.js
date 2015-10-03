@@ -12,7 +12,7 @@ module.exports = {
     "react/display-name": 2,
     "react/jsx-boolean-value": 2,
     "react/jsx-no-undef": 2,
-    "react/jsx-quotes": 2,
+    "jsx-quotes": [2, "prefer-single"],
     "react/jsx-sort-prop-types": [2, { "ignoreCase": true }],
     "react/jsx-sort-props": [2, { "ignoreCase": true }],
     "react/jsx-uses-react": 2,
