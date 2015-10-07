@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-react",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": " ",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/360incentives/eslint-config-react",
   "devDependencies": {
-    "eslint": "^0.24.0",
-    "eslint-plugin-react": "^2.6.4"
+    "eslint": "^1",
+    "eslint-plugin-react": "^3"
   }
 }
