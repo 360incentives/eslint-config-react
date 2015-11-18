@@ -10,7 +10,7 @@ module.exports = {
   },
   "rules": {
     "jsx-quotes": [2, "prefer-double"],
-    "react/display-name": 2,
+    "react/display-name": 0,
     "react/forbid-prop-types": 0,
     "react/jsx-boolean-value": [2, "always"],
     "react/jsx-closing-bracket-location": 0,
