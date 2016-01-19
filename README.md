@@ -37,3 +37,7 @@ extends:
 - base
 - react
 ```
+
+### Using Babel for more than just JSX (ie. ES7)?
+
+consider using the [babel-eslint](https://github.com/babel/babel-eslint) parser
