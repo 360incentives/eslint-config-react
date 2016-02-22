@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/360incentives/eslint-config-react",
   "devDependencies": {
-    "eslint": "^1",
-    "eslint-plugin-react": "^3"
+    "eslint": "^2",
+    "eslint-plugin-react": "^4"
   }
 }
