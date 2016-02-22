@@ -2,11 +2,10 @@ module.exports = {
   "plugins": [
     "react"
   ],
-  "ecmaFeatures": {
-    "jsx": true
-  },
-  "env": {
-    "node": true
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
   },
   "rules": {
     "jsx-quotes": [2, "prefer-double"],
@@ -20,8 +19,8 @@ module.exports = {
     "react/jsx-no-duplicate-props": 2,
     "react/jsx-no-literals": 2,
     "react/jsx-no-undef": 2,
-    "react/jsx-sort-prop-types": [2, {"ignoreCase": true}],
-    "react/jsx-sort-props": [2, {"ignoreCase": true}],
+    "react/jsx-sort-prop-types": [2, { "ignoreCase": true }],
+    "react/jsx-sort-props": [2, { "ignoreCase": true }],
     "react/jsx-uses-react": 2,
     "react/jsx-uses-vars": 2,
     "react/no-danger": 2,
