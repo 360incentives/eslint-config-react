@@ -7,6 +7,7 @@ This is a baseline configuration for linting React/JSX files using [eslint-plugi
   - __v1__ - for `eslint` < 1.4 and `eslint-plugin-react` < 3
   - __v2__ - for `eslint` >= 1.4 / < 2.0 and `eslint-plugin-react` >= 3 / < 4
   - __v3__ - for `eslint` >= 2.0 and `eslint-plugin-react` >= 4
+  - __v4__ - for `eslint` >= 3.0 and `eslint-plugin-react` >= 6
 
 
 #### Usage
