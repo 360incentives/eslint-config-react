@@ -45,6 +45,6 @@ module.exports = {
     "react/self-closing-comp": 2,
     "react/sort-comp": 2,
     "react/sort-prop-types": [2, { "ignoreCase": true }],
-    "react/wrap-multilines": 2
+    "react/jsx-wrap-multilines": 2
   }
 };
