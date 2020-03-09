@@ -1,10 +1,10 @@
 {
   "name": "eslint-config-react",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "description": " ",
   "main": "index.js",
   "scripts": {
-    "test": "eslint ."
+    "test": "semistandard --verbose | snazzy"
   },
   "repository": {
     "type": "git",
@@ -21,8 +21,12 @@
     "url": "https://github.com/360incentives/eslint-config-react/issues"
   },
   "homepage": "https://github.com/360incentives/eslint-config-react",
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^6.8.0",
     "eslint-plugin-react": "^7.19.0"
+  },
+  "devDependencies": {
+    "semistandard": "^14.2.0",
+    "snazzy": "^8.0.0"
   }
 }
